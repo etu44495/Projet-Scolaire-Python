@@ -1,0 +1,44 @@
+HISTORIQUE DES PARTIES
+----------------------
+
+Pseudo : rach | Points : 2 | Points de vie restant  : 23
+Fait le 2020-05-28 19:07:25.020941
+
+Pseudo : AVB | Points : 4 | Points de vie restant  : 189
+Fait le 2020-05-28 19:09:02.630305
+
+Pseudo : rach | Points : 0 | Points de vie restant  : 100
+Fait le 2020-05-28 19:13:22.022884
+
+Pseudo : KRATOS | Points : 0 | Points de vie restant  : 0
+Fait le 2020-05-28 20:04:09.085355
+
+Pseudo : rachid | Points : 0 | Points de vie restant  : 49
+Fait le 2020-05-28 21:00:35.112506
+
+Pseudo : rachid | Points : 0 | Points de vie restant  : 0
+Fait le 2020-05-28 21:33:02.924626
+
+Pseudo : RACHID | Points : 1 | Points de vie restant  : 20
+Fait le 2020-05-28 21:34:14.632189
+
+Pseudo : rachid | Points : 0 | Points de vie restant  : 200
+Fait le 2020-05-28 21:41:05.972120
+
+Pseudo : RACHID | Points : 0 | Points de vie restant  : 100
+Fait le 2020-05-28 22:03:26.589612
+
+Pseudo : RACHID | Points : 0 | Points de vie restant  : 120
+Fait le 2020-05-28 22:10:12.057278
+
+Pseudo : RACHID | Points : 0 | Points de vie restant  : 123
+Fait le 2020-05-28 23:04:21.602536
+
+Pseudo : rachid | Points : 5 | Points de vie restant  : 12
+Fait le 2020-05-28 23:09:02.665407
+
+Pseudo : Rachid | Points : 1 | Points de vie restant  : 0
+Fait le 2024-10-14 17:49:07.768317
+
+Pseudo : rahh | Points : 8 | Points de vie restant  : 100
+Fait le 2024-10-14 18:37:54.418045
